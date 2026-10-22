@@ -1,0 +1,28 @@
+Terms of Service for Ojol Manager
+
+Last updated: October 22, 2026
+
+1. Acceptance of Terms
+By accessing or playing Ojol Manager ("the Game"), you agree to be bound by these Terms of Service and all applicable guidelines provided by TikTok.
+
+2. License to Play
+We grant you a personal, non-exclusive, non-transferable, revocable license to access and play Ojol Manager for personal, non-commercial entertainment purposes.
+
+3. Virtual Currency and Assets
+In-game currency (e.g., Virtual Cash, Coins) and items exist solely within the Game environment. They have no real-world monetary value, cannot be redeemed for real currency, and cannot be transferred outside the Game.
+
+4. Intellectual Property
+All code, graphics, audio, game design, and assets associated with Ojol Manager are owned by the developer. You agree not to reverse engineer, decompile, or copy any part of the Game.
+
+5. Disclaimer of Warranties
+Ojol Manager is provided "AS IS" without warranties of any kind. We do not guarantee that the Game will always be uninterrupted, error-free, or compatible with every device.
+
+6. Limitation of Liability
+To the maximum extent permitted by law, the developer shall not be liable for any indirect, incidental, or consequential damages resulting from your use or inability to use the Game.
+
+7. Changes to Terms
+We reserve the right to update these Terms of Service at any time. Continued play of the Game constitutes acceptance of any revised terms.
+
+8. Contact Information
+For support or inquiries regarding the Game, please contact:
+GitHub: TMIRgem

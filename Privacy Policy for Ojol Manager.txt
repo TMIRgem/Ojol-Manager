@@ -1,0 +1,23 @@
+Privacy Policy for Ojol Manager
+
+Last updated: October 22, 2026
+
+1. Overview
+Ojol Manager ("we", "our", or "us") respects your privacy. This Privacy Policy explains how information is handled when you play our HTML5 Mini Game ("Ojol Manager") on TikTok.
+
+2. Information Collection and Storage
+- Local Device Storage: Ojol Manager operates locally within your web browser. All game progression, currency balances, upgrade levels, and game settings are saved strictly on your local device using your browser's `localStorage`.
+- No Personal Data Collection: We do not collect, store, transmit, or share any personally identifiable information (PII), such as your name, email address, phone number, or precise location.
+
+3. Third-Party Services & TikTok Integration
+Ojol Manager runs on the TikTok platform and may use the TikTok Developer SDK to display in-app advertisements (e.g., rewarded video ads) or handle user authentication. Third-party ad networks and TikTok may collect anonymous device identifiers or usage data in accordance with TikTok's Privacy Policy.
+
+4. Data Retention and Deletion
+Since all game data is stored locally on your device, you can clear or reset your game progress at any time by clearing your browser cache/data or clearing the app storage inside the TikTok app.
+
+5. Children's Privacy
+Ojol Manager does not knowingly collect personal information from children. The game is intended for general audiences.
+
+6. Contact Us
+If you have any questions regarding this Privacy Policy, please contact us at:
+GitHub: TMIRgem
